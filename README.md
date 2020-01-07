@@ -1,4 +1,4 @@
-
+[![Build Status](https://ongun.visualstudio.com/MyFirstProject/_apis/build/status/ecthgow.pipelines-java?branchName=master)](https://ongun.visualstudio.com/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
